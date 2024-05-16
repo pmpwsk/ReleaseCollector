@@ -3,6 +3,8 @@ Visual Studio extension (VSIX) that publishes your .NET projects for various sys
 
 Website: https://uwap.org/projects/release-collector
 
+Version for Visual Studio Code: https://marketplace.visualstudio.com/items?itemName=uwap-org.uwap-releasecollector-vsc
+
 ## Main features
 - Publishing projects for multiple systems at once without creating any publish profiles
 - Combining releases that use multiple files (like .dll files) into ZIP files (only the case with self-contained builds for Windows using libraries, the rest usually only need a single file)
